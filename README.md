@@ -60,7 +60,7 @@ $ npm run test:cov
 # Environments
 
 ```dosini
-NAME=
+DATABASE=mongodb://<username>:<root>@<host>:<port>/<databasename>?authSource=admin>
 
 # Docker
 MONGO_INITDB_ROOT_USERNAME=
